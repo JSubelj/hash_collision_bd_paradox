@@ -1,0 +1,266 @@
+
+FOUD COLLISION (in checker)!!!
+HASH: 6f197a4ceb88
+VAL1: vDRaDgoZglLi49am6GjW
+VAL2: UJbUcAYzqjwVzn79dTXP
+iterations: 21758710
+pretekl: 491.0013618469238
+
+FOUD COLLISION (in checker)!!!
+HASH: 994c048b3029
+VAL1: 5hHquwl1Q4CFijO5o0Pk
+VAL2: 1fyVhjYRzRRgF7Vik8U6
+iterations: 28929286
+pretekl: 655.82879114151
+
+FOUD COLLISION (in checker)!!!
+HASH: b57a7f1ebfb1
+VAL1: 8EZAn3AIz5hldqt113cn
+VAL2: BxCL5hae5VlBWJmr978t
+iterations: 30750328
+pretekl: 696.44597864151
+
+FOUD COLLISION (in checker)!!!
+HASH: cd2083c44c64
+VAL1: neKc36d3PDygoiZVgXfM
+VAL2: 45YDzC6PzPktJBo9vdxY
+iterations: 34684909
+pretekl: 787.8564851284027
+
+FOUD COLLISION (in checker)!!!
+HASH: 01ed25ae6547
+VAL1: 4MOICh8uJkFZ2gLYRDC0
+VAL2: gFM1mpUVq5BKhyr0CV3i
+iterations: 46589142
+pretekl: 1060.9765512943268
+
+FOUD COLLISION (in checker)!!!
+HASH: 45eee329db0d
+VAL1: eHBmgdVc4RdMnAMfNAkZ
+VAL2: FPDnHnTQORNEmAAyZ1oW
+iterations: 49374905
+pretekl: 1126.087567806244
+
+FOUD COLLISION (in checker)!!!
+HASH: c6b95f8dbd70
+VAL1: oed4Z6fDkpYz8Q4tPNQz
+VAL2: 6gg1ue7MTCJHXai6nbkV
+iterations: 52143663
+pretekl: 1191.0480568408966
+
+FOUD COLLISION (in checker)!!!
+HASH: 78d4a8a0755e
+VAL1: 1faIlx8lgLdC8oAGGCUM
+VAL2: hN3aKS9hiqRYyT8qWYnH
+iterations: 52145839
+pretekl: 1191.1102230548859
+
+FOUD COLLISION (in checker)!!!
+HASH: 4ac34c043192
+VAL1: k1QkM85aS3sUlTHMpeWE
+VAL2: pSQtvy6A95NSauUHWMZ7
+iterations: 53407435
+pretekl: 1219.97843003273
+
+FOUD COLLISION (in checker)!!!
+HASH: b46699c8ec8c
+VAL1: fWhwuO0I1gNExnHnqysa
+VAL2: Hm8iQDZV8wVIEpbcfHcY
+iterations: 55088429
+pretekl: 1257.8779244422913
+
+FOUD COLLISION (in checker)!!!
+HASH: 1541b09a277b
+VAL1: T0Nxb3qwcGwgbMQMv7XD
+VAL2: jxKiUym0J6154M5jRznx
+iterations: 58363250
+pretekl: 1331.9147489070892
+
+FOUD COLLISION (in checker)!!!
+HASH: 3d57d722cc0c
+VAL1: t7SaQupgzmPBV1zwcE85
+VAL2: 38fFSBY0ZWsq837lkvZu
+iterations: 61754066
+pretekl: 1406.5635793209076
+
+FOUD COLLISION (in checker)!!!
+HASH: 201b164cf01a
+VAL1: Hzbx6j5o9xooncBaTOqg
+VAL2: BSlWuL65toublgqDaZOn
+iterations: 62141171
+pretekl: 1415.193383216858
+
+FOUD COLLISION (in checker)!!!
+HASH: 59cacb6557e5
+VAL1: NPPxONKznRPW0HGQb3xv
+VAL2: WgZWDQBabC6MSWCE1qY2
+iterations: 64791693
+pretekl: 1473.6291964054108
+
+FOUD COLLISION (in checker)!!!
+HASH: 73a474af077e
+VAL1: 5VNbcGp4sCOFsIs2q3tP
+VAL2: VzRY3by4zPxUMWtLPrdB
+iterations: 65336398
+pretekl: 1485.512942314148
+
+FOUD COLLISION (in checker)!!!
+HASH: 51dd52986c03
+VAL1: ZgsZscyqrXYqR9JnvYcb
+VAL2: XusGGbpAFGaVQHt87sYm
+iterations: 69071981
+pretekl: 1567.8408846855164
+
+FOUD COLLISION (in checker)!!!
+HASH: 541c50b04bf7
+VAL1: hqdyg0wMwePyULUkiy3x
+VAL2: pi1IqrbXQknJ5Vj9abNw
+iterations: 72460572
+pretekl: 1643.4658088684082
+
+FOUD COLLISION (in checker)!!!
+HASH: b4de773d5234
+VAL1: TDCqWXX3a52xQVraO3jR
+VAL2: zA2ODIvTTeU9muDhZhG8
+iterations: 81448932
+pretekl: 1842.7704510688782
+
+FOUD COLLISION (in checker)!!!
+HASH: 324f17407737
+VAL1: Mq6ZIuZW7Psya41Vf0nt
+VAL2: p2MNVwxJkzki0jcanreN
+iterations: 82306055
+pretekl: 1862.45463681221
+
+FOUD COLLISION (in checker)!!!
+HASH: fb519d19a9eb
+VAL1: BkEeHQxOIlUdwNrWHyuD
+VAL2: IOMnwRwxlInlDLJ28mL5
+iterations: 83329675
+pretekl: 1886.0514051914215
+
+FOUD COLLISION (in checker)!!!
+HASH: 16cd50c385a4
+VAL1: OwS3ROMvLdgXC8sis065
+VAL2: fXyuXFfGAisTenQYqRDn
+iterations: 88176807
+pretekl: 1999.3675525188446
+
+FOUD COLLISION (in checker)!!!
+HASH: 8b486444532c
+VAL1: 8yZoQKRxglnsjfDCBw1o
+VAL2: 1h8HEx54nd1HsM3nRocZ
+iterations: 94585908
+pretekl: 2168.1112067699432
+
+FOUD COLLISION (in checker)!!!
+HASH: 594adc680f85
+VAL1: XO5yYnR1rEO3kikTSlgn
+VAL2: NrxZzNWOkyL51wq3IsTS
+iterations: 99586035
+pretekl: 2281.0591037273407
+
+FOUD COLLISION (in checker)!!!
+HASH: 840afddfb4c5
+VAL1: RR0wxLEtxnAcAw6gR5Xg
+VAL2: eqUKu0JgyhCQblom9Dwd
+iterations: 104149408
+pretekl: 2383.744803905487
+
+FOUD COLLISION (in checker)!!!
+HASH: cf7ec282deca
+VAL1: JMLHtWkpD7mbdN5MohKq
+VAL2: H4b3335IbGfgFfinU0ak
+iterations: 105229279
+pretekl: 2408.3163673877716
+
+FOUD COLLISION (in checker)!!!
+HASH: ce807b7ae1c5
+VAL1: RhCS6ukwRaCxWAIP00tp
+VAL2: nluooAB3QHjvlXUutNMs
+iterations: 114066260
+pretekl: 2613.5833020210266
+
+FOUD COLLISION (in checker)!!!
+HASH: 05d212b44f24
+VAL1: 7JRWH2ce2sonkuMmXxZq
+VAL2: I1musMWwOMqVZEhbvoDC
+iterations: 115103315
+pretekl: 2637.6572782993317
+
+FOUD COLLISION (in checker)!!!
+HASH: 5c053f7c5759
+VAL1: Tnmg3PZCKgva7GHpOPwm
+VAL2: 5l2YhBdeKZgISQI6A4bd
+iterations: 116924610
+pretekl: 2679.1198239326477
+
+FOUD COLLISION (in checker)!!!
+HASH: 787aa7d1b6c2
+VAL1: WEnSWDuK2b8oGcblP0Br
+VAL2: TPsTlfqYFHdMinn2h90r
+iterations: 117732916
+pretekl: 2696.909183740616
+
+FOUD COLLISION (in checker)!!!
+HASH: e079138b602e
+VAL1: mXpsPDlLjZGF6zpUgeir
+VAL2: opVuRKkZdfq1dk6THSnX
+iterations: 122427266
+pretekl: 2800.4537744522095
+
+FOUD COLLISION (in checker)!!!
+HASH: f52519cd1ce6
+VAL1: 0GSKerDivRjQ6i9HQw77
+VAL2: lbwHpxPlha9hz9vcdFGz
+iterations: 126559316
+pretekl: 2891.473088502884
+
+FOUD COLLISION (in checker)!!!
+HASH: e6e50dd9772a
+VAL1: sKJnc0SYLZ1Ax98lzw6I
+VAL2: pWSjHYXuUne3I0gGXF11
+iterations: 126588965
+pretekl: 2892.1298356056213
+
+FOUD COLLISION (in checker)!!!
+HASH: a0180126bc88
+VAL1: WjMBPnftOhPw4z2e7Xv6
+VAL2: Y90KjUVuFYFLxdA1Hc6f
+iterations: 127024359
+pretekl: 2901.627150297165
+
+FOUD COLLISION (in checker)!!!
+HASH: 63f5ec98d86f
+VAL1: YOOQNR3I5jcYt8jOavq6
+VAL2: ddta1a8ZUanwjtofMAXj
+iterations: 127450063
+pretekl: 2911.224420070648
+
+FOUD COLLISION (in checker)!!!
+HASH: 03a4b0779e55
+VAL1: 9ozn0R0w4jxnh5LkWIAl
+VAL2: 5AmSBOR4oy7ve5y9tPqV
+iterations: 130791527
+pretekl: 2984.521108150482
+
+FOUD COLLISION (in checker)!!!
+HASH: 5bcfb9bafb68
+VAL1: NW6kAQ8iCowWN4tjRw6Z
+VAL2: Pgs0YbdE7tFII6jr41Ys
+iterations: 131268829
+pretekl: 2995.0852785110474
+
+FOUD COLLISION (in checker)!!!
+HASH: d5ca31557f9b
+VAL1: I5u3rWzPVVjjxD0QgPCt
+VAL2: ZZhuKIt865IGVMM3XWcw
+iterations: 131836951
+pretekl: 3007.6888098716736
+
+FOUD COLLISION (in checker)!!!
+HASH: ea9fa25fd0ac
+VAL1: jQ7KAYGKsU0fjDtjd7aj
+VAL2: Sta5uxYCKATHznY1s1ec
+iterations: 134877380
+pretekl: 3075.010848045349
